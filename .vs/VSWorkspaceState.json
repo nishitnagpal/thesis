@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+<<<<<<< HEAD
+    "\\search-filter"
+  ],
+=======
+    "\\search-with-typesense",
+    "\\search-with-typesense\\instant-search",
+    "\\search-with-typesense\\instant-search\\partials"
+  ],
+  "SelectedNode": "\\search-with-typesense\\instant-search\\filter-panel.php",
+>>>>>>> 336d25606d05eb08bb64903691f293bf2ce0b456
+  "PreviewInSolutionExplorer": false
+}
